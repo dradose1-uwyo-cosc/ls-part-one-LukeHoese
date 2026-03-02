@@ -1,12 +1,7 @@
 # [Name]
-## [Assignment #]
-## [Submission date: MM/DD/YY]
+## [Assignment #3]
+## [Submission date: 03/01/26]
 ## Worked with/sources 
-* example
-* example
-* example
-* example
+Chatgpt to help understand an initial outline and then periodically throughout to aid with bugfixes and any syntax questions
 ## Project Quirks/ Things that don't work
-* example
-* example
-* example
+Seems to work fine on my end
